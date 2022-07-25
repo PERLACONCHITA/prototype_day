@@ -1,0 +1,13 @@
+name: hotel_booking
+title: hotel_booking
+username:
+account: tn3jn6-perla-conchita
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5860288
+bundleId: 5687952
+url: https://tn3jn6-perla-conchita.shinyapps.io/hotel_booking/
+when: 1647368925.3015
+lastSyncTime: 1647368925.3015
+asMultiple: FALSE
+asStatic: FALSE
