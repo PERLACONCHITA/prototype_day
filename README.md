@@ -25,5 +25,5 @@ Para lograrlo se divide en tres secciones:
 1. Procesamiento de datos (correspondientes al módulo 3 del programa).
 2. Análisis de datos (correspondiente al módulo 4 del programa)
 3. Modelos de machine learning (correspondiente al módulo 5 del programa)
-
-
+## Contenido del dataset
+El dataset contiene información de dos hoteles de Portugal, resort (H1) y de ciudad (H2). Cuenta con 31 variables que describen 40,060 observaciones para el de resort y 79,330 observaciones para el de ciudad (H2). De las cuales 20 variables son númericas y 12 categóricas. Comprende información del 01 julio del 2015 al 31 de agosto del 2017.
