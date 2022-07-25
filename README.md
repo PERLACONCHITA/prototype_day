@@ -14,7 +14,7 @@ Sin embargo, pese a los esfuerzos de la industria, existen áreas de oportunidad
 
 Los hoteles para hacer frente deben mejorar sus procesos de gestión y dentro de ellos encontramos la cancelación de las reservaciones.
 
-La cancelación de reservaciones es un comportamiento común en los consumidores, al igual que el cambio en sus reservaciones (como la duración de su estadía y el número de personas por reservación) y puede representar un problema para industria. (Nuno, 2019)
+La cancelación de reservaciones es un comportamiento común en los consumidores, al igual que el cambio en sus reservaciones (como la duración de su estadía y el número de personas por reservación) y representa un problema para la industria ya que algunos costos aumentan (como adquisición de clientes y distriución). (Nuno, 2019)
 
 Con la finalidad de estudiar lo anterior y proponer una solución, en este proyecto se utiliza una base de datos llamada Hotel booking demand datasets la cual contiene información sobre hoteles de ciudad y tipo resort y la descripción de sus reservaciones.
 
