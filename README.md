@@ -1,7 +1,7 @@
 # Prototype_day. Predicción de cancelación de las reservaciones de hotel.
 ## Proyecto [[`Notebook`](https://github.com/PERLACONCHITA/prototype_day/blob/main/demo_ML_5.ipynb)] 
 ## Dataset [[`Base de datos`](https://github.com/PERLACONCHITA/prototype_day/blob/main/hotel_bookings%20(1).csv)]
-## Documentación dataset [[`Hotel booking demand datasets`]https://www.sciencedirect.com/science/article/pii/S2352340918315191)]
+## Documentación dataset [[`Hotel booking demand datasets`](https://www.sciencedirect.com/science/article/pii/S2352340918315191)]
 ## Presentación
 ## Introducción 
 El sector hotelero es un elemento fundamental para la industria hotelera ya que cubre la necesidad de descanso y hospedaje, de acuerdo con (Gónzalez, 2019).
