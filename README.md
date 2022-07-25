@@ -1,4 +1,4 @@
-# Prototype_day. Predicción de cancelación de las reservaciones de hotel.
+# Prototype_day. Predicción de las reservaciones canceladas de un hotel
 ## Proyecto [[`Notebook`](https://github.com/PERLACONCHITA/prototype_day/blob/main/demo_ML_5.ipynb)] 
 ## Dataset [[`Base de datos`](https://github.com/PERLACONCHITA/prototype_day/blob/main/hotel_bookings%20(1).csv)]
 ## Documentación dataset [[`Hotel booking demand datasets`](https://www.sciencedirect.com/science/article/pii/S2352340918315191)]
