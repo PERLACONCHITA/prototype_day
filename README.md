@@ -2,7 +2,7 @@
 ## Proyecto [[`Notebook`](https://github.com/PERLACONCHITA/prototype_day/blob/main/demo_ML_5.ipynb)] 
 ## Dataset [[`Base de datos`](https://github.com/PERLACONCHITA/prototype_day/blob/main/hotel_bookings%20(1).csv)]
 ## Documentación dataset [[`Hotel booking demand datasets`](https://www.sciencedirect.com/science/article/pii/S2352340918315191)]
-## Presentación
+## Presentación [[`Cancelación de reservaciones de hotel`](https://docs.google.com/presentation/d/1A4q7qAd9HX16iaQOEAolew_nueb-eo8gERJ8qhbSB_w/edit?usp=sharing)]
 ## Introducción 
 El sector hotelero es un elemento fundamental para la industria hotelera ya que cubre la necesidad de descanso y hospedaje, de acuerdo con (Gónzalez, 2019).
 
